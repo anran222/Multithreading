@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/threadsynchronized/SynContain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -83,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/threadsynchronized/DoubleCheckedLocking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="703">
@@ -283,12 +283,12 @@
       <updated>1582185159394</updated>
       <workItem from="1582185160722" duration="6757000" />
       <workItem from="1582266010881" duration="12954000" />
-      <workItem from="1582352290886" duration="12267000" />
+      <workItem from="1582352290886" duration="12513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31978000" />
+    <option name="totallyTimeSpent" value="32224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="20" width="1346" height="637" extended-state="0" />
@@ -417,16 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadsynchronized/SynContain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#267#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cooperation/TubeMethod.fxml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="JavaFX-Scene-Builder" />
@@ -464,6 +454,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadsynchronized/DoubleCheckedLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cooperation/SignalLampMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -477,17 +481,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DoubleCheckedLocking.java">
+    <entry file="file://$PROJECT_DIR$/src/threadsynchronized/SynContain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadsynchronized/DoubleCheckedLocking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        <state relative-caret-position="114">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#267#275#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
